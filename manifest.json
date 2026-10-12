@@ -1,0 +1,70 @@
+{
+  "base": "https://cdn.jsdelivr.net/gh/john-chen-opus/plugin-asset-demo@v0.1.0/",
+  "captions": [
+    {
+      "token": "blur-ladder",
+      "label": "Blur Ladder",
+      "thumb": "images/captions/thumb/blur-ladder.png",
+      "full": "images/captions/full/blur-ladder.png",
+      "overlay": "images/captions/overlay/blur-ladder.png"
+    },
+    {
+      "token": "editorial-stack",
+      "label": "Editorial Stack",
+      "thumb": "images/captions/thumb/editorial-stack.png",
+      "full": "images/captions/full/editorial-stack.png",
+      "overlay": "images/captions/overlay/editorial-stack.png"
+    },
+    {
+      "token": "inverted-stack",
+      "label": "Inverted Stack",
+      "thumb": "images/captions/thumb/inverted-stack.png",
+      "full": "images/captions/full/inverted-stack.png",
+      "overlay": "images/captions/overlay/inverted-stack.png"
+    },
+    {
+      "token": "lead-in-flare",
+      "label": "Lead in",
+      "thumb": "images/captions/thumb/lead-in-flare.png",
+      "full": "images/captions/full/lead-in-flare.png",
+      "overlay": "images/captions/overlay/lead-in-flare.png"
+    },
+    {
+      "token": "pace-adaptive",
+      "label": "Pace Adaptive",
+      "thumb": "images/captions/thumb/pace-adaptive.png",
+      "full": "images/captions/full/pace-adaptive.png",
+      "overlay": "images/captions/overlay/pace-adaptive.png"
+    },
+    {
+      "token": "scribble-subtitle",
+      "label": "Scribble Subtitle",
+      "thumb": "images/captions/thumb/scribble-subtitle.png",
+      "full": "images/captions/full/scribble-subtitle.png",
+      "overlay": "images/captions/overlay/scribble-subtitle.png"
+    },
+    {
+      "token": "solo-word-punch",
+      "label": "Solo Word Punch",
+      "thumb": "images/captions/thumb/solo-word-punch.png",
+      "full": "images/captions/full/solo-word-punch.png",
+      "overlay": "images/captions/overlay/solo-word-punch.png"
+    },
+    {
+      "token": "tilt-slam",
+      "label": "Tilt Slam",
+      "thumb": "images/captions/thumb/tilt-slam.png",
+      "full": "images/captions/full/tilt-slam.png",
+      "overlay": "images/captions/overlay/tilt-slam.png"
+    }
+  ],
+  "videos": {
+    "caption_styles_demo": {
+      "src": "videos/caption-styles-demo.mp4",
+      "poster": "videos/caption-styles-demo-poster.jpg",
+      "width": 1080,
+      "height": 1920,
+      "duration_s": 8
+    }
+  }
+}
